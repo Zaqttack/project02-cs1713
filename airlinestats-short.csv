@@ -1,0 +1,500 @@
+18,2304,2173,0,UA,United Air Lines Inc.,NAS,EWR
+24,2400,2173,0,B6,JetBlue Airways,SJU,PUJ
+29,2900,2173,0,B6,JetBlue Airways,HAV,MCO
+15,3786,3167,94816,AZ,Compagnia Aerea Italiana,FCO,BOS
+33,5280,3170,0,AM,Aeromexico,LAS,MEX
+14,3920,3173,119249,AF,Compagnie Natl Air France,LAX,PPT
+62,4817,3174,451984,YV,Mesa Airlines Inc.,SLP,DFW
+31,3968,3175,10175,AA,American Airlines Inc.,PHX,MEX
+25,3575,3176,0,WN,Southwest Airlines Co.,STL,CUN
+23,4347,3177,0,SY,Sun Country Airlines d/b/a MN Airlines,MBJ,MSP
+22,4708,3177,198549,UA,United Air Lines Inc.,GVA,IAD
+14,3892,3180,6559,HA,Hawaiian Airlines Inc.,KOA,HND
+19,3306,3182,0,WS,Westjet,LAS,YYZ
+77,3850,3183,0,QK,Jazz Aviation LP,YUL,BOS
+13,3822,3189,213869,KL,Klm Royal Dutch Airlines,IAD,AMS
+17,4284,3189,243164,LO,Polskie Linie Lotnicze,WAW,LAX
+13,3640,3193,8921,AF,Compagnie Natl Air France,PPT,LAX
+7,3563,3195,97757,LH,Lufthansa German Airlines,MUC,LAX
+31,4092,3195,0,DL,Delta Air Lines Inc.,HAV,ATL
+31,4774,3196,2057,BW,Caribbean Airlines Limited,JFK,MBJ
+22,3652,3201,1309,UA,United Air Lines Inc.,YVR,ORD
+14,4102,3201,227253,AZ,Compagnia Aerea Italiana,FCO,LAX
+14,4284,3201,4547,CA,Air China,LAX,SZX
+31,4433,3201,0,WN,Southwest Airlines Co.,GCM,FLL
+20,3740,3204,809,AA,American Airlines Inc.,NAS,CLT
+16,3600,3205,15,FI,Icelandair,EWR,KEF
+23,4347,3206,0,SY,Sun Country Airlines d/b/a MN Airlines,MSP,MBJ
+22,3505,3210,0,DL,Delta Air Lines Inc.,MSP,MBJ
+62,4817,3210,0,YV,Mesa Airlines Inc.,DFW,SLP
+12,3666,3213,0,RV,Air Canada rouge LP,YYC,OGG
+83,4150,3213,0,ZX,Air Georgian,YYZ,PIT
+18,3852,3221,242962,UA,United Air Lines Inc.,FCO,EWR
+32,5120,3221,0,AA,American Airlines Inc.,PLS,MIA
+21,3789,3223,0,Y4,Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,LAS
+31,6975,3223,105750,OS,Austrian Airlines,MIA,VIE
+27,3564,3231,0,DL,Delta Air Lines Inc.,YWG,MSP
+57,4275,3231,0,QK,Jazz Aviation LP,EWR,YUL
+31,4215,3233,29,RV,Air Canada rouge LP,LAS,YVR
+27,3598,3234,0,WS,Westjet,YYC,LAS
+17,3587,3235,118514,AC,Air Canada,YYZ,LAX
+21,3470,3238,0,EQ,Tame Linea Aerea del Ecuador Tme EP,GYE,FLL
+28,4085,3241,598,AC,Air Canada,LGA,YYZ
+31,4650,3243,0,4O,ABC Aerolineas SA de CV dba Interjet,GDL,ORD
+20,3780,3245,0,D8,Norwegian Air International Ltd.,DUB,SWF
+24,3840,3245,0,B6,JetBlue Airways,JFK,UVF
+31,3874,3248,38281,UA,United Air Lines Inc.,BOG,IAH
+31,3968,3249,43604,AA,American Airlines Inc.,BOG,DFW
+30,4800,3249,0,AA,American Airlines Inc.,MBJ,ORD
+27,4319,3252,7146,DL,Delta Air Lines Inc.,GDL,ATL
+31,3968,3256,3192,AA,American Airlines Inc.,MEX,PHX
+29,5046,3257,4,4C,Aerovias de Intergracian Regional,MIA,BOG
+14,3892,3258,0,HA,Hawaiian Airlines Inc.,HNL,CTS
+31,4650,3258,0,4O,ABC Aerolineas SA de CV dba Interjet,ORD,GDL
+30,4800,3260,2,AA,American Airlines Inc.,BDA,MIA
+31,4960,3261,13669,AA,American Airlines Inc.,MIA,PLS
+34,5644,3262,21362,UA,United Air Lines Inc.,MEX,IAH
+14,4088,3264,14850,HX,Hong Kong Airlines Limited,HKG,SPN
+82,4100,3264,0,ZX,Air Georgian,YYZ,RDU
+29,4640,3264,0,B6,JetBlue Airways,JFK,HAV
+25,4488,3265,0,Y4,Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),MEX,LAX
+20,3560,3266,0,AS,Alaska Airlines Inc.,LTO,LAX
+21,3759,3274,3,UA,United Air Lines Inc.,YYC,DEN
+31,3968,3274,6774,AA,American Airlines Inc.,MIA,GND
+22,3652,3276,1323,UA,United Air Lines Inc.,ORD,YVR
+29,3594,3278,4691,DL,Delta Air Lines Inc.,ATL,GUA
+13,3612,3278,288200,LY,El Al Israel Airlines Ltd.,TLV,MIA
+17,6290,3278,331313,PR,Philippine Airlines Inc.,JFK,YVR
+13,3614,3279,88845,HA,Hawaiian Airlines Inc.,HND,KOA
+31,4092,3279,264,DL,Delta Air Lines Inc.,BDA,ATL
+89,4450,3280,0,MQ,Envoy Air,FPO,MIA
+14,4144,3283,228397,TN,Air Tahiti Nui,CDG,LAX
+27,4320,3286,0,AA,American Airlines Inc.,PUJ,ORD
+31,3844,3287,41844,AM,Aeromexico,MEX,MIA
+10,3440,3289,0,DI,Norwegian Air UK Limited,JFK,LGW
+109,5450,3290,0,ZX,Air Georgian,YYZ,DTW
+23,3657,3292,820,AS,Alaska Airlines Inc.,SJD,SEA
+26,3536,3295,381,RV,Air Canada rouge LP,MIA,YUL
+25,4150,3296,1520,UA,United Air Lines Inc.,GUM,MNL
+30,4290,3297,0,WN,Southwest Airlines Co.,AUS,CUN
+20,3691,3301,257857,UA,United Air Lines Inc.,ORD,BRU
+27,4860,3302,0,NK,Spirit Air Lines,FLL,PTY
+18,3744,3303,357139,AF,Compagnie Natl Air France,CDG,ORD
+29,4350,3303,6655,AV,Aerovias Nacl De Colombia,MIA,CTG
+33,4950,3304,3837,4O,ABC Aerolineas SA de CV dba Interjet,CUN,LAX
+36,3959,3305,0,DL,Delta Air Lines Inc.,MSP,YYC
+62,4712,3310,0,OO,SkyWest Airlines Inc.,ORD,MTY
+11,3784,3311,459914,DY,Norwegian Air Shuttle ASA,ARN,JFK
+24,3840,3313,0,B6,JetBlue Airways,UVF,JFK
+32,5696,3313,0,AS,Alaska Airlines Inc.,YVR,SEA
+33,4818,3322,0,AC,Air Canada,YYZ,PBI
+26,3744,3325,2858,LP,Lan Peru Airlines,LIM,MCO
+28,4004,3325,0,WN,Southwest Airlines Co.,PVR,DEN
+50,3800,3328,0,YX,Republic Airline,PHL,YYZ
+29,4901,3329,2595,UA,United Air Lines Inc.,IAD,LHR
+28,4004,3331,0,WN,Southwest Airlines Co.,MBJ,HOU
+30,4800,3332,0,B6,JetBlue Airways,BOS,BDA
+28,4480,3333,0,AM,Aeromexico,MEX,SEA
+103,5150,3334,0,ZX,Air Georgian,CMH,YYZ
+10,3440,3335,20966,DY,Norwegian Air Shuttle ASA,FLL,ARN
+13,3731,3335,125739,MF,Xiamen Airlines Co. Ltd.,FOC,JFK
+23,4094,3335,0,AS,Alaska Airlines Inc.,SJC,SJD
+13,3666,3338,0,RV,Air Canada rouge LP,YVR,PSP
+15,3870,3341,535370,VS,Virgin Atlantic Airways,LHR,JFK
+52,3951,3341,0,CP,Compass Airlines,SEA,YEG
+14,3766,3342,100653,UA,United Air Lines Inc.,SFO,PEK
+20,4080,3342,324141,AA,American Airlines Inc.,MXP,MIA
+13,3731,3343,183966,MF,Xiamen Airlines Co. Ltd.,LAX,XMN
+18,4140,3347,0,F9,Frontier Airlines Inc.,CUN,CLE
+17,3978,3348,100622,DL,Delta Air Lines Inc.,LOS,ATL
+58,4408,3348,0,YX,Republic Airline,PLS,MIA
+23,3657,3350,0,AS,Alaska Airlines Inc.,GDL,SJC
+31,4433,3350,0,WN,Southwest Airlines Co.,OAK,SJD
+13,4185,3359,211354,FJ,Air Pacific Ltd.,NAN,LAX
+38,5434,3362,0,WN,Southwest Airlines Co.,LAX,SJD
+32,4900,3365,0,4O,ABC Aerolineas SA de CV dba Interjet,LAS,MEX
+26,3476,3368,0,WS,Westjet,YYC,PSP
+31,3968,3368,0,AA,American Airlines Inc.,CAP,MIA
+28,4732,3369,270776,NH,All Nippon Airways Co.,SJC,NRT
+13,3666,3371,0,RV,Air Canada rouge LP,PSP,YVR
+23,3678,3371,0,DL,Delta Air Lines Inc.,ATL,SJD
+28,5040,3373,0,VB,Aeroenlaces Nacionales S.A. de C.V. d/b/a VivaAerobus,LAS,MEX
+27,3606,3375,0,WS,Westjet,YVR,SNA
+28,4200,3378,0,AV,Aerovias Nacl De Colombia,FLL,BOG
+24,5136,3380,39023,UA,United Air Lines Inc.,IAD,GVA
+17,3587,3387,271685,AC,Air Canada,LAX,YYZ
+20,3740,3388,3090,AA,American Airlines Inc.,CLT,NAS
+87,4350,3388,0,ZX,Air Georgian,YYZ,IAD
+22,3520,3392,0,DL,Delta Air Lines Inc.,CTG,ATL
+50,3750,3393,0,QK,Jazz Aviation LP,YVR,SAN
+31,4433,3397,0,WN,Southwest Airlines Co.,PUJ,FLL
+31,4433,3401,0,WN,Southwest Airlines Co.,CUN,AUS
+24,3816,3403,0,AS,Alaska Airlines Inc.,GDL,LAX
+13,4017,3407,92477,CZ,China Southern Airlines,CAN,LAX
+29,4147,3407,0,WN,Southwest Airlines Co.,MBJ,MCO
+33,4816,3408,0,AC,Air Canada,PBI,YYZ
+25,3999,3409,0,DL,Delta Air Lines Inc.,SJD,DTW
+29,4562,3409,0,DL,Delta Air Lines Inc.,CUN,DTW
+13,3666,3411,427,RV,Air Canada rouge LP,OGG,YYC
+23,5037,3415,312084,UA,United Air Lines Inc.,IAD,GRU
+24,5400,3415,454124,OS,Austrian Airlines,VIE,ORD
+30,4377,3419,0,AC,Air Canada,YUL,PBI
+31,4433,3421,0,WN,Southwest Airlines Co.,LAX,PVR
+31,4774,3421,1982,BW,Caribbean Airlines Limited,MIA,POS
+18,4140,3422,0,F9,Frontier Airlines Inc.,CLE,CUN
+21,5965,3423,164218,AA,American Airlines Inc.,LAX,AKL
+24,4309,3429,0,Y4,Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),SJC,GDL
+29,3828,3430,329,DL,Delta Air Lines Inc.,SLC,MEX
+26,4100,3430,0,DL,Delta Air Lines Inc.,PVR,DTW
+14,4102,3431,204081,AZ,Compagnia Aerea Italiana,LAX,FCO
+50,3750,3433,0,QK,Jazz Aviation LP,SAN,YVR
+33,4800,3434,0,4O,ABC Aerolineas SA de CV dba Interjet,LAX,CUN
+30,4008,3436,0,WS,Westjet,YVR,LAS
+31,4092,3436,434,DL,Delta Air Lines Inc.,LAX,MEX
+32,4650,3436,0,4O,ABC Aerolineas SA de CV dba Interjet,CUN,JFK
+23,3818,3437,1503,UA,United Air Lines Inc.,MBJ,ORD
+18,4140,3437,0,F9,Frontier Airlines Inc.,CUN,PHL
+31,4960,3438,574,AA,American Airlines Inc.,MBJ,DFW
+22,4028,3439,2950,FI,Icelandair,MCO,KEF
+31,3968,3441,134901,AA,American Airlines Inc.,GND,MIA
+60,4560,3441,0,OO,SkyWest Airlines Inc.,LAX,BJX
+31,4960,3442,132,AA,American Airlines Inc.,LAX,PVR
+27,3606,3443,0,WS,Westjet,SNA,YVR
+55,4180,3445,0,OO,SkyWest Airlines Inc.,MSP,YXE
+30,4290,3445,0,WN,Southwest Airlines Co.,CUN,LAX
+13,3822,3446,413400,KL,Klm Royal Dutch Airlines,AMS,IAD
+79,3950,3446,0,PT,Piedmont Airlines,PHL,YYZ
+26,4159,3449,1372,DL,Delta Air Lines Inc.,JFK,AUA
+31,4433,3451,0,WN,Southwest Airlines Co.,FLL,GCM
+15,4440,3452,378959,TN,Air Tahiti Nui,LAX,CDG
+28,4480,3454,15048,DL,Delta Air Lines Inc.,ATL,GDL
+31,4960,3455,812,AA,American Airlines Inc.,DFW,MBJ
+18,3744,3459,244796,AF,Compagnie Natl Air France,ORD,CDG
+20,4380,3459,556712,LX,Swiss International Airlines,ZRH,BOS
+30,3840,3461,0,AA,American Airlines Inc.,CTG,MIA
+31,3968,3461,148,AA,American Airlines Inc.,MIA,CAP
+30,5400,3461,0,VB,Aeroenlaces Nacionales S.A. de C.V. d/b/a VivaAerobus,GDL,LAX
+13,3822,3465,426978,KL,Klm Royal Dutch Airlines,AMS,JFK
+25,4000,3469,0,DL,Delta Air Lines Inc.,AUA,JFK
+29,4147,3469,0,WN,Southwest Airlines Co.,PUJ,ATL
+62,4712,3469,0,MQ,Envoy Air,DFW,QRO
+52,3948,3470,0,CP,Compass Airlines,YEG,SEA
+28,7042,3470,1401620,NH,All Nippon Airways Co.,HND,ORD
+27,4860,3475,0,NK,Spirit Air Lines,PTY,FLL
+30,4290,3477,0,WN,Southwest Airlines Co.,PVR,OAK
+28,3736,3478,0,WS,Westjet,LAS,YYC
+30,4500,3481,10440,UA,United Air Lines Inc.,MEX,IAD
+28,5208,3481,11191,AM,Aeromexico,GDL,SFO
+14,3752,3483,775144,KL,Klm Royal Dutch Airlines,AMS,LAX
+11,3784,3490,29592,DY,Norwegian Air Shuttle ASA,JFK,ARN
+35,3850,3490,0,DL,Delta Air Lines Inc.,YYC,MSP
+34,4268,3490,8927,UA,United Air Lines Inc.,MGA,IAH
+13,3731,3494,13915,MF,Xiamen Airlines Co. Ltd.,JFK,FOC
+23,4211,3494,85364,FI,Icelandair,KEF,MCO
+30,4800,3496,165,AA,American Airlines Inc.,ORD,MBJ
+17,4725,3497,88898,FJ,Air Pacific Ltd.,LAX,NAN
+23,3680,3507,0,DL,Delta Air Lines Inc.,SJD,ATL
+26,3744,3509,0,LP,Lan Peru Airlines,MCO,LIM
+30,3720,3510,45778,DL,Delta Air Lines Inc.,GUA,ATL
+22,3938,3511,5194,UA,United Air Lines Inc.,MGA,IAH
+23,5497,3512,400965,EY,Etihad Airways,DFW,AUH
+26,3793,3517,0,AC,Air Canada,RSW,YUL
+19,4066,3518,344307,BA,British Airways Plc,LHR,MSY
+34,4268,3520,1891,UA,United Air Lines Inc.,IAH,MGA
+17,4284,3522,236740,LO,Polskie Linie Lotnicze,WAW,EWR
+24,4309,3522,0,Y4,Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,SJC
+87,4350,3523,0,AX,Trans States Airlines,YUL,ORD
+27,5022,3523,3472,AM,Aeromexico,SFO,GDL
+31,6324,3528,250857,AA,American Airlines Inc.,MIA,CNF
+25,4490,3530,0,Y4,Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),OAK,GDL
+33,5280,3531,0,AM,Aeromexico,MEX,LAS
+61,4636,3532,0,QX,Horizon Air,YEG,SEA
+28,4004,3533,0,WN,Southwest Airlines Co.,HOU,MBJ
+23,4117,3534,409,UA,United Air Lines Inc.,DEN,YYC
+17,6222,3538,442106,UA,United Air Lines Inc.,PEK,SFO
+31,4960,3543,0,B6,JetBlue Airways,FLL,BOG
+18,4140,3544,0,F9,Frontier Airlines Inc.,PHL,CUN
+25,4150,3548,2349,UA,United Air Lines Inc.,ORD,MBJ
+29,3828,3551,10884,DL,Delta Air Lines Inc.,MEX,SLC
+108,5400,3551,0,ZX,Air Georgian,CLE,YYZ
+20,3720,3555,0,D8,Norwegian Air International Ltd.,PTP,JFK
+24,3783,3557,57,DL,Delta Air Lines Inc.,CUN,BOS
+31,4433,3558,0,WN,Southwest Airlines Co.,PVR,HOU
+19,4607,3560,217118,DL,Delta Air Lines Inc.,ATL,DUS
+24,3816,3561,3405,AS,Alaska Airlines Inc.,SJC,GDL
+28,5156,3561,2,AM,Aeromexico,GDL,SJC
+29,4147,3562,0,WN,Southwest Airlines Co.,SNA,SJD
+29,4350,3565,12177,AV,Aerovias Nacl De Colombia,MIA,MDE
+30,4719,3565,0,DL,Delta Air Lines Inc.,DTW,CUN
+30,4980,3565,0,UA,United Air Lines Inc.,HAV,EWR
+27,4320,3566,0,B6,JetBlue Airways,BOS,STI
+14,3752,3567,841452,KL,Klm Royal Dutch Airlines,LAX,AMS
+31,4728,3567,704,AV,Aerovias Nacl De Colombia,IAD,BOG
+28,4732,3568,470226,NH,All Nippon Airways Co.,NRT,SJC
+24,3786,3569,0,DL,Delta Air Lines Inc.,BOS,CUN
+31,4929,3571,0,AS,Alaska Airlines Inc.,MEX,LAX
+19,4446,3574,391481,DL,Delta Air Lines Inc.,NGO,DTW
+18,5168,3575,319440,KE,Korean Air Lines Co. Ltd.,DFW,ICN
+14,4088,3576,0,HX,Hong Kong Airlines Limited,SPN,HKG
+31,4650,3579,55108,AV,Aerovias Nacl De Colombia,BAQ,MIA
+30,4500,3584,5301,AA,American Airlines Inc.,CLT,GCM
+29,4640,3587,0,B6,JetBlue Airways,MBJ,MCO
+18,6102,3590,168337,VA,Virgin Blue International Airlines t/a V Australia,LAX,MEL
+17,4220,3591,67197,SA,South African Airways,ACC,IAD
+29,4350,3591,0,4O,ABC Aerolineas SA de CV dba Interjet,MEX,SAT
+19,4446,3593,346634,DL,Delta Air Lines Inc.,CDG,MSP
+62,4650,3594,0,QK,Jazz Aviation LP,SJC,YVR
+31,4092,3596,6525,DL,Delta Air Lines Inc.,MEX,ATL
+61,4636,3597,0,MQ,Envoy Air,QRO,DFW
+13,3822,3599,293885,KL,Klm Royal Dutch Airlines,JFK,AMS
+28,4263,3601,4391,AV,Aerovias Nacl De Colombia,JFK,BOG
+30,5400,3601,0,NK,Spirit Air Lines,FLL,MBJ
+31,4091,3608,0,DL,Delta Air Lines Inc.,ATL,HAV
+27,4955,3610,629,EI,Aer Lingus Plc,BOS,SNN
+14,4200,3612,293856,AC,Air Canada,LAX,YYZ
+18,4338,3613,75616,SU,Aeroflot Russian Airlines,SVO,MIA
+25,4000,3615,0,B6,JetBlue Airways,BOS,NAS
+27,3861,3616,0,WN,Southwest Airlines Co.,HOU,BZE
+28,4480,3616,8562,AM,Aeromexico,MEX,BOS
+14,4326,3618,128018,CZ,China Southern Airlines,SFO,WUH
+30,5400,3621,0,NK,Spirit Air Lines,MBJ,FLL
+110,5500,3622,0,ZX,Air Georgian,DTW,YYZ
+87,4350,3623,0,ZX,Air Georgian,IAD,YYZ
+31,3968,3624,19397,AA,American Airlines Inc.,MIA,SXM
+22,5566,3625,391021,SQ,Singapore Airlines Ltd.,IAH,MAN
+31,4092,3626,1797,DL,Delta Air Lines Inc.,MEX,DTW
+31,4433,3626,0,WN,Southwest Airlines Co.,SJD,SAN
+30,4500,3627,0,AA,American Airlines Inc.,GCM,CLT
+31,5146,3629,4466,UA,United Air Lines Inc.,LAX,MEX
+30,4080,3630,224,RV,Air Canada rouge LP,YUL,MCO
+26,4160,3630,0,B6,JetBlue Airways,NAS,BOS
+20,4380,3631,412240,LX,Swiss International Airlines,BOS,ZRH
+30,6120,3631,183215,AA,American Airlines Inc.,CNF,MIA
+31,4092,3632,499,DL,Delta Air Lines Inc.,MEX,LAX
+28,5040,3634,0,VB,Aeroenlaces Nacionales S.A. de C.V. d/b/a VivaAerobus,MEX,LAS
+17,3876,3635,0,NK,Spirit Air Lines,ORD,CUN
+30,4800,3638,0,AA,American Airlines Inc.,POP,MIA
+16,4276,3639,153518,TP,Tap-Portuguese Airlines,LIS,EWR
+17,4879,3641,150289,VS,Virgin Atlantic Airways,JFK,MAN
+18,5134,3641,154843,NZ,Air New Zealand,HNL,AKL
+31,4433,3642,0,WN,Southwest Airlines Co.,OAK,PVR
+29,4814,3642,41,UA,United Air Lines Inc.,MEX,LAX
+28,4476,3643,19699,AA,American Airlines Inc.,PAP,JFK
+17,4284,3646,226103,LO,Polskie Linie Lotnicze,EWR,WAW
+26,4160,3647,0,DL,Delta Air Lines Inc.,DTW,SJD
+13,3900,3651,0,MU,China Eastern Airlines,PEK,SPN
+32,4800,3652,0,4O,ABC Aerolineas SA de CV dba Interjet,MEX,LAS
+13,3900,3653,0,MU,China Eastern Airlines,SPN,PEK
+28,4004,3656,0,WN,Southwest Airlines Co.,ATL,PUJ
+57,4332,3656,0,OO,SkyWest Airlines Inc.,YEG,DEN
+25,4000,3658,0,AA,American Airlines Inc.,CUN,PHL
+27,4050,3661,9431,LR,Lacsa,JFK,SAL
+58,4408,3661,0,YX,Republic Airline,MIA,PLS
+28,3740,3663,0,WS,Westjet,YYZ,FLL
+17,4556,3663,312277,AD,Azul Linhas Aereas Brazileiras S A,MCO,REC
+21,5082,3666,465608,AA,American Airlines Inc.,PHL,MAN
+31,4091,3669,198,DL,Delta Air Lines Inc.,DTW,MEX
+17,4725,3672,399238,FJ,Air Pacific Ltd.,NAN,LAX
+62,4340,3673,0,G7,GoJet Airlines LLC d/b/a United Express,YYZ,DEN
+29,4640,3682,0,B6,JetBlue Airways,AUA,FLL
+35,5880,3682,0,XP,XTRA Airways,MIA,HAV
+17,4726,3683,333721,HA,Hawaiian Airlines Inc.,AKL,HNL
+27,4320,3684,1054,AA,American Airlines Inc.,SJO,PHX
+13,4550,3685,124093,WW,WOW Air ehf,KEF,SFO
+31,3700,3686,0,4O,ABC Aerolineas SA de CV dba Interjet,JFK,CUN
+24,4296,3686,4532,UA,United Air Lines Inc.,PVR,ORD
+28,5974,3690,934586,NH,All Nippon Airways Co.,JFK,HND
+57,4332,3691,0,OO,SkyWest Airlines Inc.,DEN,YEG
+17,3976,3692,12080,DL,Delta Air Lines Inc.,ATL,LOS
+31,4805,3693,0,WL,Caribbean Sun Airlines Inc. d/b/a World Atlantic Airlines,CCS,MIA
+25,4150,3695,789,UA,United Air Lines Inc.,IAD,PUJ
+30,4500,3696,9950,UA,United Air Lines Inc.,PVR,IAH
+27,4050,3697,0,AA,American Airlines Inc.,NAS,CLT
+24,4296,3698,1745,UA,United Air Lines Inc.,IAH,MGA
+31,3968,3701,0,UA,United Air Lines Inc.,NAS,ORD
+61,4468,3701,79,KV,Sky Regional Airlines Inc.,YUL,IAH
+25,5625,3702,709798,AA,American Airlines Inc.,PVG,LAX
+27,4113,3703,23681,AV,Aerovias Nacl De Colombia,BOG,JFK
+28,4704,3704,1857,DL,Delta Air Lines Inc.,CDG,RDU
+26,4093,3705,466,DL,Delta Air Lines Inc.,ATL,MGA
+29,4640,3706,0,B6,JetBlue Airways,FLL,AUA
+62,4650,3706,0,QK,Jazz Aviation LP,YVR,SJC
+26,4145,3708,0,DL,Delta Air Lines Inc.,MSP,PVR
+43,5504,3708,0,AA,American Airlines Inc.,MZT,PHX
+31,4092,3710,5754,DL,Delta Air Lines Inc.,ATL,MEX
+31,4433,3715,0,WN,Southwest Airlines Co.,LAX,CUN
+20,4680,3715,17444,DL,Delta Air Lines Inc.,SEA,HKG
+33,4719,3715,0,WN,Southwest Airlines Co.,MBJ,MDW
+20,4280,3718,109368,UA,United Air Lines Inc.,EWR,TXL
+17,5576,3720,309588,EY,Etihad Airways,LAX,AUH
+26,4764,3726,1489,FI,Icelandair,DEN,KEF
+21,4284,3727,250514,AA,American Airlines Inc.,MIA,MXP
+13,4355,3727,139850,JQ,Jetstar Airways Pty Limited,HNL,MEL
+18,4500,3729,162613,SA,South African Airways,IAD,ACC
+17,3975,3732,228041,DL,Delta Air Lines Inc.,ATL,CDG
+31,3968,3733,1539,AA,American Airlines Inc.,SXM,MIA
+31,4433,3733,0,WN,Southwest Airlines Co.,CUN,ATL
+105,5250,3733,0,ZX,Air Georgian,YYZ,BWI
+15,5160,3734,82764,DY,Norwegian Air Shuttle ASA,LGW,SEA
+17,4131,3738,195345,DL,Delta Air Lines Inc.,ATL,STR
+31,4433,3738,0,WN,Southwest Airlines Co.,BZE,FLL
+27,4955,3744,5342,EI,Aer Lingus Plc,SNN,BOS
+25,4000,3746,16,AA,American Airlines Inc.,PHL,CUN
+29,4640,3747,0,B6,JetBlue Airways,MCO,MBJ
+28,5040,3753,0,NK,Spirit Air Lines,FLL,MDE
+31,5146,3755,5247,UA,United Air Lines Inc.,IAH,POS
+13,4017,3757,50112,CZ,China Southern Airlines,LAX,CAN
+27,5022,3761,0,AM,Aeromexico,SMF,GDL
+18,4212,3762,371885,DL,Delta Air Lines Inc.,CDG,ATL
+17,4171,3769,185233,DL,Delta Air Lines Inc.,STR,ATL
+29,4640,3769,414,AA,American Airlines Inc.,JFK,PAP
+29,4147,3770,0,WN,Southwest Airlines Co.,MCO,MBJ
+61,4636,3770,0,QX,Horizon Air,SEA,YEG
+25,5700,3772,0,NK,Spirit Air Lines,FLL,SAP
+24,4296,3776,0,UA,United Air Lines Inc.,ORD,PVR
+31,4433,3776,0,WN,Southwest Airlines Co.,FLL,PUJ
+25,3991,3778,0,DL,Delta Air Lines Inc.,SJD,MSP
+31,4526,3779,0,AC,Air Canada,YOW,MCO
+26,4628,3782,2174,AS,Alaska Airlines Inc.,LAX,PVR
+20,4280,3784,113178,UA,United Air Lines Inc.,EWR,FCO
+35,5600,3784,49463,AM,Aeromexico,MIA,MEX
+26,4764,3791,30835,FI,Icelandair,KEF,DEN
+31,4216,3792,0,RV,Air Canada rouge LP,YYC,LAS
+58,4408,3792,0,MQ,Envoy Air,DFW,YYC
+31,3968,3795,0,UA,United Air Lines Inc.,ORD,NAS
+26,4156,3797,23608,DL,Delta Air Lines Inc.,SAL,LAX
+38,4864,3802,1360,AA,American Airlines Inc.,NAS,CLT
+21,4536,3803,498828,BA,British Airways Plc,LHR,IAD
+61,4636,3803,0,OO,SkyWest Airlines Inc.,MTY,ORD
+25,4489,3805,0,Y4,Concesionaria Vuela Compania De Aviacion SA de CV (Volaris),GDL,OAK
+30,4080,3806,211,RV,Air Canada rouge LP,MCO,YUL
+28,4480,3808,1717,AA,American Airlines Inc.,JFK,ANU
+20,5760,3810,2279,MU,China Eastern Airlines,PVG,HNL
+29,4640,3812,0,B6,JetBlue Airways,FLL,CTG
+26,4628,3815,0,AS,Alaska Airlines Inc.,PVR,LAX
+61,6002,3816,0,5D,Aerolitoral,DFW,MEX
+13,4446,3819,154669,AI,National Aviation Company of India Limited d/b/a Air India,DEL,IAD
+29,4640,3820,0,B6,JetBlue Airways,JFK,POS
+27,4320,3821,0,B6,JetBlue Airways,BOS,SDQ
+29,4350,3821,38161,AV,Aerovias Nacl De Colombia,MDE,MIA
+26,4145,3829,0,DL,Delta Air Lines Inc.,PVR,MSP
+17,4335,3829,157401,LH,Lufthansa German Airlines,DEN,MUC
+14,4074,3830,340300,DY,Norwegian Air Shuttle ASA,CPH,JFK
+27,4320,3832,1623,AA,American Airlines Inc.,ORD,PUJ
+31,4929,3832,0,AS,Alaska Airlines Inc.,SFO,MEX
+55,4180,3833,0,YX,Republic Airline,PHL,YUL
+29,4350,3833,4222,TA,Taca International Airlines,JFK,SAL
+30,4800,3833,11853,AA,American Airlines Inc.,MIA,STI
+26,5564,3833,13486,UA,United Air Lines Inc.,EWR,GVA
+27,4050,3835,102749,LR,Lacsa,SAL,JFK
+26,4524,3835,23119,AA,American Airlines Inc.,PUJ,JFK
+29,4147,3836,0,WN,Southwest Airlines Co.,BWI,MBJ
+27,4320,3837,0,AA,American Airlines Inc.,ANU,JFK
+30,4800,3837,4758,AA,American Airlines Inc.,MIA,CLO
+28,4200,3838,549,AA,American Airlines Inc.,CLT,NAS
+61,4633,3838,0,CP,Compass Airlines,SEA,YYC
+28,5974,3838,1001002,NH,All Nippon Airways Co.,JFK,NRT
+29,4640,3839,0,B6,JetBlue Airways,JFK,PUJ
+31,4650,3842,4600,AV,Aerovias Nacl De Colombia,CTG,MIA
+18,4338,3843,85653,SU,Aeroflot Russian Airlines,MIA,SVO
+28,5711,3845,394477,AA,American Airlines Inc.,CDG,JFK
+61,4636,3846,0,KV,Sky Regional Airlines Inc.,YYZ,MSY
+31,4433,3847,0,WN,Southwest Airlines Co.,FLL,SJO
+31,5301,3847,4187,AA,American Airlines Inc.,MIA,BSB
+36,5760,3848,78,AA,American Airlines Inc.,DFW,CZM
+14,4171,3849,408962,AC,Air Canada,LAX,YYZ
+43,7740,7063,0,DL,Delta Air Lines Inc.,PUJ,MSP
+31,11346,7063,1032313,UA,United Air Lines Inc.,NRT,SFO
+31,8742,7065,14527,RV,Air Canada rouge LP,YVR,LAS
+31,8601,7088,971298,KE,Korean Air Lines Co. Ltd.,ICN,ORD
+22,7568,7089,541268,DY,Norwegian Air Shuttle ASA,LGW,JFK
+61,7808,7090,190,AA,American Airlines Inc.,YVR,PHX
+31,8339,7091,249081,UA,United Air Lines Inc.,ORD,PVG
+26,7607,7093,0,DL,Delta Air Lines Inc.,CUN,ATL
+53,8480,7096,2697,AM,Aeromexico,MEX,MCO
+31,10974,7100,922544,QR,Qatar Airways (Q.C.S.C),IAD,DOH
+43,7739,7106,0,DL,Delta Air Lines Inc.,MSP,PUJ
+32,9024,7107,10223,RV,Air Canada rouge LP,MCO,YUL
+31,7843,7112,440453,SQ,Singapore Airlines Ltd.,SIN,SFO
+26,7609,7115,3680,DL,Delta Air Lines Inc.,ATL,CUN
+30,8136,7131,570885,AA,American Airlines Inc.,EZE,JFK
+31,7812,7134,391211,TQ,Taca Peru,MIA,LIM
+60,7919,7140,0,DL,Delta Air Lines Inc.,MSP,YVR
+36,8851,7140,506228,DL,Delta Air Lines Inc.,CDG,ATL
+31,7750,7148,696117,AV,Aerovias Nacl De Colombia,BOG,LAX
+31,8184,7150,695636,SQ,Singapore Airlines Ltd.,SFO,HKG
+61,7808,7153,1825,AA,American Airlines Inc.,PHX,YVR
+20,10180,7153,357487,LH,Lufthansa German Airlines,JFK,FRA
+54,8100,7154,795,UA,United Air Lines Inc.,YYC,IAH
+62,8866,7160,0,WN,Southwest Airlines Co.,MBJ,FLL
+60,9000,7162,6230,AV,Aerovias Nacl De Colombia,MIA,BOG
+30,8814,7178,223456,EI,Aer Lingus Plc,DUB,SFO
+30,8010,7186,559205,UA,United Air Lines Inc.,DEL,EWR
+62,8262,7189,255,RV,Air Canada rouge LP,YUL,LAS
+31,8277,7195,967285,UA,United Air Lines Inc.,NRT,IAH
+29,10034,7199,369215,MS,Egyptair,JFK,CAI
+39,7566,7217,9920,TA,Taca International Airlines,SAL,IAD
+28,9464,7221,1478,KE,Korean Air Lines Co. Ltd.,GUM,ICN
+53,8474,7222,15077,CM,Compania Panamena (Copa),PTY,ORD
+34,9316,7227,100901,AT,Royal Air Maroc,JFK,CMN
+31,10323,7227,229990,BR,Eva Airways Corporation,IAH,TPE
+46,7636,7228,35,UA,United Air Lines Inc.,EWR,PUJ
+31,8804,7228,386081,AA,American Airlines Inc.,SYD,LAX
+62,9920,7228,31631,AA,American Airlines Inc.,MEX,LAX
+31,8029,7234,520520,QR,Qatar Airways (Q.C.S.C),DOH,LAX
+31,8422,7234,529391,AA,American Airlines Inc.,MIA,LHR
+62,9916,7240,0,DL,Delta Air Lines Inc.,SJD,LAX
+26,8112,7243,0,AF,Compagnie Natl Air France,JFK,ORY
+31,7719,7244,259239,AZ,Compagnia Aerea Italiana,MIA,FCO
+31,8184,7247,1006665,SQ,Singapore Airlines Ltd.,LAX,NRT
+52,8320,7250,0,B6,JetBlue Airways,SDQ,JFK
+62,7936,7254,701,AA,American Airlines Inc.,CUR,MIA
+54,7874,7257,20255,AC,Air Canada,LAX,YUL
+56,8176,7261,14791,AC,Air Canada,YVR,LAX
+31,8339,7261,650439,UA,United Air Lines Inc.,BRU,IAD
+30,8780,7268,609076,DL,Delta Air Lines Inc.,MXP,JFK
+30,8338,7271,908692,KE,Korean Air Lines Co. Ltd.,ICN,IAD
+30,8250,7272,239736,CX,Cathay Pacific Airways Ltd.,BOS,HKG
+31,8339,7272,580643,UA,United Air Lines Inc.,GRU,EWR
+34,9316,7273,271964,AT,Royal Air Maroc,CMN,JFK
+58,9280,7274,0,AA,American Airlines Inc.,SJD,ORD
+38,7758,7287,384248,JL,Japan Air Lines Co. Ltd.,NRT,GUM
+29,9193,7289,404620,SA,South African Airways,JFK,JNB
+54,8640,7294,0,B6,JetBlue Airways,JFK,SDQ
+30,8010,7301,444545,UA,United Air Lines Inc.,EWR,PVG
+41,9172,7322,295205,BA,British Airways Plc,EWR,LHR
+23,7912,7326,798640,DY,Norwegian Air Shuttle ASA,LAX,LGW
+36,11099,7336,1670207,AA,American Airlines Inc.,LHR,JFK
+55,7865,7344,0,WN,Southwest Airlines Co.,FLL,NAS
+30,8670,7344,731995,AY,Finnair Oy,HEL,JFK
+25,8000,7345,398127,KL,Klm Royal Dutch Airlines,JFK,AMS
+53,8474,7347,14802,CM,Compania Panamena (Copa),ORD,PTY
+62,9920,7347,0,B6,JetBlue Airways,MEX,MCO
+61,7808,7349,14885,AA,American Airlines Inc.,MIA,YYZ
+31,8277,7362,786150,UA,United Air Lines Inc.,IAH,AMS
+31,8804,7368,261901,AA,American Airlines Inc.,DFW,ICN
+31,8277,7375,663962,UA,United Air Lines Inc.,IAH,FRA
+31,8430,7379,673362,AA,American Airlines Inc.,BCN,MIA
+30,8010,7381,536763,UA,United Air Lines Inc.,EWR,TLV
+31,9021,7384,475937,BA,British Airways Plc,DFW,LHR
+31,8339,7385,282232,UA,United Air Lines Inc.,IAD,BRU
+31,10998,7387,767705,QR,Qatar Airways (Q.C.S.C),DFW,DOH
+31,8289,7402,1162412,AD,Azul Linhas Aereas Brazileiras S A,VCP,MCO
+30,8726,7404,582973,DL,Delta Air Lines Inc.,SYD,LAX
+30,8010,7409,741447,UA,United Air Lines Inc.,TLV,EWR
+31,8339,7413,511614,UA,United Air Lines Inc.,ORD,NRT
+25,8000,7421,714217,KL,Klm Royal Dutch Airlines,AMS,JFK
+30,8160,7427,633708,AA,American Airlines Inc.,MIA,CDG
+62,9920,7442,0,B6,JetBlue Airways,MEX,FLL
+26,9074,7446,876733,TK,Turk Hava Yollari A.O.,IST,MIA
+59,8260,7449,9220,AA,American Airlines Inc.,YYZ,DFW
+60,9600,7462,14758,DL,Delta Air Lines Inc.,ATL,MEX
+30,8337,7468,565400,LY,El Al Israel Airlines Ltd.,TLV,JFK
+29,8120,7475,90598,CX,Cathay Pacific Airways Ltd.,EWR,HKG
+62,9920,7478,34783,AA,American Airlines Inc.,LAX,MEX
+28,8463,7480,627222,LA,Lan-Chile Airlines,JFK,SCL
+29,8497,7492,732636,DL,Delta Air Lines Inc.,AMS,BOS
+25,8725,7492,788803,TK,Turk Hava Yollari A.O.,IST,IAH
+32,9024,7496,0,RV,Air Canada rouge LP,YVR,OGG
+28,8288,7498,1023422,AF,Compagnie Natl Air France,CDG,IAD
+58,8800,7512,0,4O,ABC Aerolineas SA de CV dba Interjet,LAX,MEX
