@@ -14,11 +14,12 @@
 #include "main.h"
 #include "airlinestats.h"
 
-int main(int argc, char *argv[]) 
-{
+int main(int argc, char *argv[]) {
 	/* declare all your variables here */
 	FILE *infp;
+	AirlineInfo recordFound;
 	int recordLength, choice;
+	char codeChoice[3], originChoice[4], destChoice[4];
 
 	/* check for the command line argument here, print out error message and 
 		end program if it is not present */
@@ -42,7 +43,7 @@ int main(int argc, char *argv[])
 	AirlineInfo Record[recordLength];
 
     fillRecords(infp, &Record, recordLength);
-    //sortRecords(&Record, 0, recordLength - 1);
+    sortRecords(&Record, 0, recordLength - 1);
 	
 	/* close the file pointer */
 	fclose(infp);
@@ -78,12 +79,29 @@ int main(int argc, char *argv[])
                    3) if the Record returned has a bad value, print out
                       that the record was not found.
                    4) otherwise, print out the record */
-				   
+				recordFound.deptartures = -999;
+				printf("Enter an Airline Code: ");
+				scanf("%s", codeChoice);
+				printf("Enter a Origin Airport Code: ");
+				scanf("%s", originChoice);
+				printf("Enter a Destination Airport Code: ");
+				scanf("%s", destChoice);
+				recordFound = findRecord(&Record, recordLength, codeChoice, originChoice, destChoice);
+				if(recordFound.deptartures < 0) {
+					printf("No Record Was Found!\n");
+				}
+				else {
+					printf("nDeparts   nSeats      nPassengers freight     airlineCode airlineName                                       oiriginCode destCode\n");
+					printf("---------------------------------------------------------------------------------------------------------------------------------\n");
+					printRecord(recordFound);
+				}
                 break;
+				
             case 5:
                 /* call printAllRecords() */
 				printAllRecords(&Record, recordLength);
                 break;
+				
             case 0:
             default:
                 printf("Good-bye!\n\n");

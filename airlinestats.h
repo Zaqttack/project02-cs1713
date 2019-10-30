@@ -31,6 +31,5 @@ void fillRecords(FILE*, AirlineInfo*, int);
 void computeStatistics(AirlineInfo*, int, SearchType, char*);
 void mergeRecords(AirlineInfo*, int, int, int);
 void sortRecords(AirlineInfo*, int, int);
-void merge(AirlineInfo*, int, int, int);
 
 #endif
