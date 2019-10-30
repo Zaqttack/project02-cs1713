@@ -8,7 +8,7 @@ int getRecordCount(FILE* fileIn) {
 	AirlineInfo count;
 	
 	while(fgets(buff, sizeof(buff), fileIn) != NULL) {
-		fscanf(fileIn, "%d %d %d %d %s %s %s %s", &count.deptartures, &count.seatsAvl, &count.totalPassengers, &count.cargoWeight, count.airlineCode, count.airlineName, count.airlineCodeOrigin, count.airlineCodeDestination);
+		fscanf(fileIn, "%d,%d,%d,%d,%s,%s,%s,%s", &count.deptartures, &count.seatsAvl, &count.totalPassengers, &count.cargoWeight, count.airlineCode, count.airlineName, count.airlineCodeOrigin, count.airlineCodeDestination);
 		recordLength++;
 	}
 	
@@ -20,8 +20,8 @@ int getRecordCount(FILE* fileIn) {
 void fillRecords(FILE *fileIn, AirlineInfo *data, int length) {
 	int i;
 	
-	for(i = 0; i < length; i++) {
-		fscanf(fileIn, "%d %d %d %d %s %s %s %s", &data[i].deptartures, &data[i].seatsAvl, &data[i].totalPassengers, &data[i].cargoWeight, data[i].airlineCode, data[i].airlineName, data[i].airlineCodeOrigin, data[i].airlineCodeDestination);
+	for(i = 0; i <= length; i++) {
+		fscanf(fileIn, "%d,%d,%d,%d,%[^,]s,%[^,]s,%[^,]s,%[^,]s", &data[i].deptartures, &data[i].seatsAvl, &data[i].totalPassengers, &data[i].cargoWeight, data[i].airlineCode,  data[i].airlineName, data[i].airlineCodeOrigin, data[i].airlineCodeDestination);
 	}
 }
 /*

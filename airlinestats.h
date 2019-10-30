@@ -8,9 +8,9 @@ typedef struct AirlineInfo_struct {
 	int totalPassengers;
 	int cargoWeight;
 	char airlineCode[3];
-	char airlineName[50];
-	char airlineCodeOrigin[3];
-	char airlineCodeDestination[3];
+	char airlineName[100];
+	char airlineCodeOrigin[4];
+	char airlineCodeDestination[4];
 } AirlineInfo;
 
 /* This enumeration will be used to support the computeStatistics() function 

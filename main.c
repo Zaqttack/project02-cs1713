@@ -18,7 +18,6 @@ int main(int argc, char *argv[])
 {
 	/* declare all your variables here */
 	FILE *infp;
-	AirlineInfo *Record;
 	int recordLength, choice;
 
 	/* check for the command line argument here, print out error message and 
@@ -40,8 +39,10 @@ int main(int argc, char *argv[])
 		contents with the information by using the getRecordCount() and fillRecords(). 
 		then, call the sortRecords() function to sort the array by airline name. */
 	recordLength = getRecordCount(infp);
-	//fillRecords(Record, 0, recordLength - 1);
-	//sortRecords();
+	AirlineInfo Record[recordLength];
+
+    fillRecords(infp, &Record, recordLength);
+    //sortRecords(&Record, 0, recordLength - 1);
 	
 	/* close the file pointer */
 	fclose(infp);
@@ -81,7 +82,7 @@ int main(int argc, char *argv[])
                 break;
             case 5:
                 /* call printAllRecords() */
-				printAllRecords(Record, recordLength);
+				printAllRecords(&Record, recordLength);
                 break;
             case 0:
             default:
