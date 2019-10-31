@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 #include <stdlib.h>
 #include "airlinestats.h"
 
@@ -84,28 +85,14 @@ AirlineInfo findRecord(AirlineInfo *data, int length, char *code, char *origin, 
 	AirlineInfo noRecordFound;
 	noRecordFound.deptartures = -999;
 	int i;
-	
 	for(i = 0; i < length; i++) {
-		if(strcmp(data[i].airlineCode, code) == 0) {
-			printf("Found airlineCode\n");
-			if(strcmp(data[i].airlineCodeOrigin, origin) == 0) {
-				printf("Found codeOrigin\n");
-				if(strcmp(data[i].airlineCodeDestination, destination) == 0) {
-					printf("Found codeDestination\n");
-					return data[i];
-				}
-				else {
-					printf("codeDestination exit\n");
-					return noRecordFound;
-				}
-			}
-			else {
-				printf("codeOrigin exit\n");
-				return noRecordFound;
-			}
+		printf("%s = %s\n", data[i].airlineCode, code);
+		printf("%s = %s\n", data[i].airlineCodeOrigin, origin);
+		printf("%s = %s\n", data[i].airlineCodeDestination, destination);
+		if(strcmp(data[i].airlineCode, code) == 0 && strcmp(data[i].airlineCodeOrigin, origin) == 0 && strcmp(data[i].airlineCodeDestination, destination) == 0) {
+			return data[i];
 		}
 		else {
-			printf("airlineCode exit\n");
 			return noRecordFound;
 		}
 	}

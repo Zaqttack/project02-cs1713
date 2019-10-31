@@ -79,7 +79,6 @@ int main(int argc, char *argv[]) {
                    3) if the Record returned has a bad value, print out
                       that the record was not found.
                    4) otherwise, print out the record */
-				recordFound.deptartures = -999;
 				printf("Enter an Airline Code: ");
 				scanf("%s", codeChoice);
 				printf("Enter a Origin Airport Code: ");
@@ -87,7 +86,7 @@ int main(int argc, char *argv[]) {
 				printf("Enter a Destination Airport Code: ");
 				scanf("%s", destChoice);
 				recordFound = findRecord(&Record, recordLength, codeChoice, originChoice, destChoice);
-				if(recordFound.deptartures < 0) {
+				if(recordFound.deptartures == -999) {
 					printf("No Record Was Found!\n");
 				}
 				else {
