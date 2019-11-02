@@ -21,7 +21,7 @@ int getRecordCount(FILE* fileIn) {
 void fillRecords(FILE *fileIn, AirlineInfo *data, int length) {
 	int i;
 	
-	for(i = 0; i <= length; i++) {
+	for(i = 0; i < length; i++) {
 		fscanf(fileIn, "%d,%d,%d,%d,%[^,],%[^,],%[^,],%[^\n,]", &data[i].deptartures, &data[i].seatsAvl, &data[i].totalPassengers, &data[i].cargoWeight, data[i].airlineCode,  data[i].airlineName, data[i].airlineCodeOrigin, data[i].airlineCodeDestination);
 	}
 }
@@ -41,7 +41,7 @@ void sortRecords(AirlineInfo *data, int low, int high) {
 
 void mergeRecords(AirlineInfo *data, int low , int mid , int high) {
 	int mergedSize = high - low + 1;
-	AirlineInfo mergedNames[mergedSize];
+	AirlineInfo mergedNames[mergedSize + 1];
 	int mergePos = 0;
 	int leftPos = low;
 	int rightPos = mid + 1;
@@ -82,20 +82,16 @@ void printAllRecords(AirlineInfo *data, int length) {
 }
 
 AirlineInfo findRecord(AirlineInfo *data, int length, char *code, char *origin, char *destination) {
-	AirlineInfo noRecordFound;
-	noRecordFound.deptartures = -999;
+	AirlineInfo Record;
+	Record.deptartures = -999;
 	int i;
-	for(i = 0; i < length; i++) {
-		printf("%s = %s\n", data[i].airlineCode, code);
-		printf("%s = %s\n", data[i].airlineCodeOrigin, origin);
-		printf("%s = %s\n", data[i].airlineCodeDestination, destination);
-		if(strcmp(data[i].airlineCode, code) == 0 && strcmp(data[i].airlineCodeOrigin, origin) == 0 && strcmp(data[i].airlineCodeDestination, destination) == 0) {
-			return data[i];
-		}
-		else {
-			return noRecordFound;
+	for(i = 0; i < length; ++i) {
+		if(strcmp(data[i].airlineCode, code) == 0 && strcmp(data[i].airlineCodeOrigin, origin) == 0 /*&& strcmp(data[i].airlineCodeDestination, destination) == 0*/) {
+			Record = data[i];
+			return Record;
 		}
 	}
+	return Record;
 }
 
 void computeStatistics(AirlineInfo *data, int length, SearchType type, char *entry) {

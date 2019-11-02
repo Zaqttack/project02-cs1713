@@ -35,15 +35,18 @@ int main(int argc, char *argv[]) {
 		printf("file not available\n");
 		exit(-1);
 	}
+	printf("File airlinestats.csv opened\n");
 	
 	/* dynamically allocate your array of Record struct's, and load the the CSV
 		contents with the information by using the getRecordCount() and fillRecords(). 
 		then, call the sortRecords() function to sort the array by airline name. */
 	recordLength = getRecordCount(infp);
+	printf("%d records found\n", recordLength);
 	AirlineInfo Record[recordLength];
-
+	
     fillRecords(infp, &Record, recordLength);
     sortRecords(&Record, 0, recordLength - 1);
+	printf("Records sorted\n");
 	
 	/* close the file pointer */
 	fclose(infp);
@@ -79,6 +82,7 @@ int main(int argc, char *argv[]) {
                    3) if the Record returned has a bad value, print out
                       that the record was not found.
                    4) otherwise, print out the record */
+				   
 				printf("Enter an Airline Code: ");
 				scanf("%s", codeChoice);
 				printf("Enter a Origin Airport Code: ");
@@ -116,8 +120,7 @@ int main(int argc, char *argv[]) {
     This function prints the main menu.
     Returns: Nothing
 */
-void printMenu()
-{
+void printMenu() {
     printf("\n#########################################\n");
     printf("#         Airline Statistics Menu       #\n");
     printf("#########################################\n");
