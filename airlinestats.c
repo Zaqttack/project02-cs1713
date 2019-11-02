@@ -128,6 +128,8 @@ void computeStatistics(AirlineInfo *data, int length, SearchType type, char *ent
 			}
 			break;
 		case DESTINATION:
+			printf("Length: %d\n", length);
+			printf("Entry: %s\n", entry);
 			for(i = 0; i < length; i++) {
 				if(strcmp(data[i].airlineCodeDestination, entry) == 0) {
 					records++;
@@ -138,18 +140,20 @@ void computeStatistics(AirlineInfo *data, int length, SearchType type, char *ent
 				}
 			}
 			break;
-		default:
-			printf("No Records Found!\n");
-			return;
 	}
-	printf("Statistcs\n----------\n");
-	printf("Records       = %d\n", records);
-	printf("Passengers    = %d\n", passengers);
-	printf("Seats         = %d\n", seats);
-	printf("Departures    = %d\n", departures);
-	printf("Freight       = %d\n", freight);
-	avgOccupancy = (double)passengers / (double)records;
-	printf("Avg Occupancy = %lf\n", avgOccupancy);
-	avgFreight = (double)freight / (double)records;
-	printf("Avg Freight   = %lf\n", avgFreight);
+	if(records == 0) {
+		printf("No Records Found!\n");
+	}
+	else {
+		printf("Statistcs\n----------\n");
+		printf("Records       = %d\n", records);
+		printf("Passengers    = %d\n", passengers);
+		printf("Seats         = %d\n", seats);
+		printf("Departures    = %d\n", departures);
+		printf("Freight       = %d\n", freight);
+		avgOccupancy = (double)passengers / (double)records;
+		printf("Avg Occupancy = %lf\n", avgOccupancy);
+		avgFreight = (double)freight / (double)records;
+		printf("Avg Freight   = %lf\n", avgFreight);
+	}
 }
