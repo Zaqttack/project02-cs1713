@@ -63,17 +63,23 @@ int main(int argc, char *argv[]) {
 			case 1:
 				/* 1) ask the user to enter an airline code
 				   2) call the computeStatistics() function */
-				   
+				printf("Enter an Airline Code: ");
+				scanf("%s", codeChoice);
+				computeStatistics(&Record, recordLength, AIRLINE, codeChoice);
 				break;
             case 2:
                 /* 1) ask the user to enter an origin airport code
                    2) call the computeStatistics() function */
-				   
+				printf("Enter a Origin Airport Code: ");
+				scanf("%s", originChoice);
+				computeStatistics(&Record, recordLength, ORIGIN, originChoice);
                 break;
             case 3:
                 /* 1) ask the user to enter a destination airport code
                    2) call the computeStatistics() function */
-				   
+				printf("Enter a Destination Airport Code: ");
+				scanf("%s", destChoice);
+				computeStatistics(&Record, recordLength, DESTINATION, destChoice);
 				break;
             case 4:
                 /* 1) ask the user to enter an airline code, an origin 
@@ -82,7 +88,6 @@ int main(int argc, char *argv[]) {
                    3) if the Record returned has a bad value, print out
                       that the record was not found.
                    4) otherwise, print out the record */
-				   
 				printf("Enter an Airline Code: ");
 				scanf("%s", codeChoice);
 				printf("Enter a Origin Airport Code: ");

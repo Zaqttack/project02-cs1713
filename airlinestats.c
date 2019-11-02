@@ -86,7 +86,7 @@ AirlineInfo findRecord(AirlineInfo *data, int length, char *code, char *origin, 
 	Record.deptartures = -999;
 	int i;
 	for(i = 0; i < length; ++i) {
-		if(strcmp(data[i].airlineCode, code) == 0 && strcmp(data[i].airlineCodeOrigin, origin) == 0 /*&& strcmp(data[i].airlineCodeDestination, destination) == 0*/) {
+		if(strcmp(data[i].airlineCode, code) == 0 && strcmp(data[i].airlineCodeOrigin, origin) == 0 && strcmp(data[i].airlineCodeDestination, destination) == 0) {
 			Record = data[i];
 			return Record;
 		}
@@ -95,5 +95,61 @@ AirlineInfo findRecord(AirlineInfo *data, int length, char *code, char *origin, 
 }
 
 void computeStatistics(AirlineInfo *data, int length, SearchType type, char *entry) {
-	
+	int i;
+	int records = 0;
+	int passengers = 0;
+	int seats = 0;
+	int departures = 0;
+	int freight = 0;
+	double avgOccupancy = 0.0;
+	double avgFreight = 0.0;
+
+	switch(type) {
+		case AIRLINE:
+			for(i = 0; i < length; i++) {
+				if(strcmp(data[i].airlineCode, entry) == 0) {
+					records++;
+					passengers += data[i].totalPassengers;
+					seats += data[i].seatsAvl;
+					departures += data[i].deptartures;
+					freight += data[i].cargoWeight;
+				}
+			}
+			break;
+		case ORIGIN:
+			for(i = 0; i < length; i++) {
+				if(strcmp(data[i].airlineCodeOrigin, entry) == 0) {
+					records++;
+					passengers += data[i].totalPassengers;
+					seats += data[i].seatsAvl;
+					departures += data[i].deptartures;
+					freight += data[i].cargoWeight;
+				}
+			}
+			break;
+		case DESTINATION:
+			for(i = 0; i < length; i++) {
+				if(strcmp(data[i].airlineCodeDestination, entry) == 0) {
+					records++;
+					passengers += data[i].totalPassengers;
+					seats += data[i].seatsAvl;
+					departures += data[i].deptartures;
+					freight += data[i].cargoWeight;
+				}
+			}
+			break;
+		default:
+			printf("No Records Found!\n");
+			return;
+	}
+	printf("Statistcs\n----------\n");
+	printf("Records       = %d\n", records);
+	printf("Passengers    = %d\n", passengers);
+	printf("Seats         = %d\n", seats);
+	printf("Departures    = %d\n", departures);
+	printf("Freight       = %d\n", freight);
+	avgOccupancy = (double)passengers / (double)records;
+	printf("Avg Occupancy = %lf\n", avgOccupancy);
+	avgFreight = (double)freight / (double)records;
+	printf("Avg Freight   = %lf\n", avgFreight);
 }
